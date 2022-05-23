@@ -26,7 +26,7 @@ import (
 
 const (
 	// The value of "type" key in configuration.
-	typeStr = "elasticsearch"
+	typeStr = "opensearch"
 )
 
 // NewFactory creates a factory for Elastic exporter.
